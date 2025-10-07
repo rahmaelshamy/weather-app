@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 2a1a178 (Initial commit - Electron Weather App)
+
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f34779b4-4fa4-4091-a246-7c5e2613fb66" />
+
