@@ -77,3 +77,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f34779b4-4fa4-4091-a246-7c5e2613fb66" />
 
+<img width="1919" height="1016" alt="Screenshot 2025-10-07 165755" src="https://github.com/user-attachments/assets/5cfd5843-7d05-4d5e-a258-6d9727b99fe0" />
+
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/63723c28-810d-4970-97e1-ad9c5b43e6e3" />
+
+
+
+
+
