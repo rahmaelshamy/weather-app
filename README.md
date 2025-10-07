@@ -75,7 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> 2a1a178 (Initial commit - Electron Weather App)
 
 
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f34779b4-4fa4-4091-a246-7c5e2613fb66" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d9148ab4-f41f-420a-8789-eb47af206fc5" />
+
 
 <img width="1919" height="1016" alt="Screenshot 2025-10-07 165755" src="https://github.com/user-attachments/assets/5cfd5843-7d05-4d5e-a258-6d9727b99fe0" />
 
